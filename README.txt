@@ -18,7 +18,7 @@ This Python application summarizes the top recent news stories from NPR, AP News
 
 🚀 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/NeuroBamf/news-digest-app.git
+git clone https://github.com/NeuroBamf/newsDigestApp.git
 cd news-digest-app
 
 2. Create and Activate a Virtual Environment
