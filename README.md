@@ -62,5 +62,5 @@ nltk
 lxml_html_clean
 Note: The script automatically downloads NLTK's punkt tokenizer if not found.
 
-🙌 About
+🙌 
 Hope you like it. Developed by C. Howard
